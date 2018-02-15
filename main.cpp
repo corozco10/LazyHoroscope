@@ -17,7 +17,7 @@ int main()
         cout<< "What is your last name?\n";
         cin>>last;
         //tell fortune
-        cout<<"Welcome, "<<first[0]<<"."<<last[0]<<"." ",here is your fortune...\n";
+        cout<<"Welcome, "<<first[0]<<"."<<last[0]<<"." ", here is your fortune...\n";
         lucky=first.length();
         cout<<"your lucky number is " <<lucky<<endl;
         firstlet=first[0];
